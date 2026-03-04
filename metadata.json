@@ -1,0 +1,5 @@
+{
+  "name": "Consulta de Pagos",
+  "description": "Herramienta para consultar el estado de pagos sin depender de Postman.",
+  "requestFramePermissions": []
+}
